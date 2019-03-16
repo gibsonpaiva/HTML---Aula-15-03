@@ -1,0 +1,25 @@
+h{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 1px 1px 1px red;
+    font-family: 'Source Sans Pro', sans-serif;
+    background: red;
+    letter-spacing: 8px;
+    
+}
+div{
+    text-align: center;
+    border: 1px solid;
+    
+}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+#ok{
+    text-align: center;
+    font-size: 20px;
+}
+ul{
+    text-align: center;
+}
